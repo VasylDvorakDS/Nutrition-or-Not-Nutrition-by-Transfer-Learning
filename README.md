@@ -1,3 +1,3 @@
 # Nutrition-or-Not-Nutrition-by-Transfer-Learning
 
-# With data augmentation
+# With and without data augmentation
